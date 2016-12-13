@@ -1,0 +1,8 @@
+#ifndef PRESSURESENSOR_H
+#define PRESSURESENSOR_H
+
+class PressureSensor:Sensoras {
+
+};
+
+#endif

@@ -1,0 +1,11 @@
+#ifndef SENSOR_H
+#define SENSOR_H
+
+class Sensor {
+  public:
+    Sensor(int pin);
+    bool init();
+    float read();
+};
+
+#endif
